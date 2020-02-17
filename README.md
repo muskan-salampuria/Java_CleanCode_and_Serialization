@@ -2,8 +2,8 @@
 
 This repository has two projects :--
    1. HOUSE CONSTRUCTION COST
-         Program to estimate house construction cost, based on various materials
-      Specifications given:
+        Program to estimate house construction cost, based on various materials
+        
       Construction cost per square feet is
         • 1200INR if we use standard materials
         • 1500INR if we use above standard materials
